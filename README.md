@@ -1,5 +1,4 @@
-# linear-regression-scratch
-##Linear Regression from scratch with python.
+# Linear Regression from scratch with python
 
 Libraries - pandas, matplotlib
 
