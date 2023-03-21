@@ -1,4 +1,8 @@
 
+# Linear Regression from Scratch
+
+This repository contains an implementation of linear regression from scratch in Python.
+
 ## Requirements
 
 To run this code, you will need to have Python 3 installed on your machine. Additionally, the following Python libraries are required:
