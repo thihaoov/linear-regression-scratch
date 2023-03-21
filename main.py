@@ -46,4 +46,11 @@ print(m, b)
 print(loss_function(m, b, stu_scores))
 plt.scatter(stu_scores.Hours, stu_scores.Scores, color='black')
 plt.plot(list(range(0, 11)), [m * x + b for x in range(0, 11)], color='red')
+
+# set the axis labels and title
+plt.xlabel('Hours')
+plt.ylabel('Score')
+plt.title('Linear Regression')
+
+plt.savefig("plot.png")
 plt.show()
